@@ -3,7 +3,7 @@
 int main()
 {
 	int lower,upper,i,prm;
-	printf("Enter the lowe bound\n");
+	printf("Enter the lower bound\n");
 	scanf("%d",&lower);
 	if(lower==1)
 	         lower=2;
