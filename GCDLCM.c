@@ -1,4 +1,4 @@
-/* Recurssive program to find GCD and LCM of the given number */
+/* Recurssive program to find GCD and LCM of the given numbers */
 #include<stdio.h>
 int GCD(int,int);
 int main()
